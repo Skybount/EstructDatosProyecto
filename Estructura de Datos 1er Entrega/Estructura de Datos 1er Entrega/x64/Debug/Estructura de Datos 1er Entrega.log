@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\mat2k\source\repos\Estructura de Datos 1er Entrega\Estructura de Datos 1er Entrega\Source.cpp(144,16): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\mat2k\source\repos\Estructura de Datos 1er Entrega\Estructura de Datos 1er Entrega\Source.cpp(483,38): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\mat2k\source\repos\Estructura de Datos 1er Entrega\Estructura de Datos 1er Entrega\Source.cpp(795,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mat2k\source\repos\Estructura de Datos 1er Entrega\Estructura de Datos 1er Entrega\Source.cpp(799,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mat2k\source\repos\Estructura de Datos 1er Entrega\Estructura de Datos 1er Entrega\Source.cpp(879,37): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\mat2k\source\repos\Estructura de Datos 1er Entrega\Estructura de Datos 1er Entrega\Source.cpp(911,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mat2k\source\repos\Estructura de Datos 1er Entrega\Estructura de Datos 1er Entrega\Source.cpp(915,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mat2k\source\repos\Estructura de Datos 1er Entrega\Estructura de Datos 1er Entrega\Source.cpp(1030,38): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\mat2k\source\repos\Estructura de Datos 1er Entrega\Estructura de Datos 1er Entrega\Source.cpp(1048,38): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\mat2k\source\repos\Estructura de Datos 1er Entrega\Estructura de Datos 1er Entrega\Source.cpp(1091,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\mat2k\source\repos\Estructura de Datos 1er Entrega\Estructura de Datos 1er Entrega\Source.cpp(1180,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mat2k\source\repos\Estructura de Datos 1er Entrega\Estructura de Datos 1er Entrega\Source.cpp(1181,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\mat2k\source\repos\Estructura de Datos 1er Entrega\Estructura de Datos 1er Entrega\Source.cpp(1194,38): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\mat2k\source\repos\Estructura de Datos 1er Entrega\Estructura de Datos 1er Entrega\Source.cpp(1788): warning C4715: 'busquedaBinaria': not all control paths return a value
+  Estructura de Datos 1er Entrega.vcxproj -> C:\Users\mat2k\source\repos\Estructura de Datos 1er Entrega\x64\Debug\Estructura de Datos 1er Entrega.exe
